@@ -1,24 +1,34 @@
-# Lumen PHP Framework
+## Anxiety Clock
 
-[![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![Latest Stable Version](https://img.shields.io/packagist/v/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
-[![License](https://img.shields.io/packagist/l/laravel/framework)](https://packagist.org/packages/laravel/lumen-framework)
+**Descripción:**
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+Anxiety Clock es una aplicación web simple que muestra un reloj de medias horas.
 
-## Official Documentation
+**Tecnologías:**
 
-Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+* Lumen
+* Bootstrap
 
-## Contributing
+**Instalación:**
 
-Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+1. Clonar el repositorio: `git clone https://github.com/yosoymitxel/anxietyclock`
+2. Instalar las dependencias: `composer install`
+3. Compilar los assets: `npm run dev`
+4. Iniciar el servidor: `php artisan serve`
 
-## Security Vulnerabilities
+**Uso:**
 
-If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+1. Accede a la aplicación en tu navegador web: `http://localhost:8000`
 
-## License
 
-The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+**Licencia:**
+
+Este proyecto está licenciado bajo la licencia MIT.
+
+**Contacto:**
+
+Si tienes alguna pregunta o comentario sobre el proyecto, puedes contactarme a través de GitHub o por correo electrónico a [correo electrónico].
+
+**Enlaces:**
+
+* Repositorio GitHub: [https://github.com/yosoymitxel/anxietyclock](https://github.com/yosoymitxel/anxietyclock)
